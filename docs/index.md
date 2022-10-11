@@ -1,6 +1,6 @@
 ---
 layout: home
-
+666
 hero:
   name: 熊喵Java
   text: 力求构建Java知识体系
