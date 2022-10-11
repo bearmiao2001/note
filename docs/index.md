@@ -16,7 +16,7 @@ hero:
       text: GitHub
       link: https://github.com/bearmiao2001/note
 ---
-
+666
 <style>
 .main .text {
   font-size:25px;
