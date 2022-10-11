@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "dev": "vitepress dev docs  --port 80 --host",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs --port 80 --host"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.19"
+  }
+}
