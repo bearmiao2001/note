@@ -4,3 +4,5 @@
 - **:thinking:如果您有什么对网站好的想法和建议，欢迎添加我的微信（备注：网站）。**
 
 <img src="/wx.jpg" style="width:300px"/>
+
+6
